@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianfidso
 - 👀 I’m interested in Mechatronics, Cybernetics and Automation.
-- 🌱 I’m currently studying Mechatronics at The University of Agder.
+- 🌱 I’m currently studying for a Master of Science in Mechatronics at The University of Agder.
 - ⚡ Fun fact: I am currenlty trying to develop an Autonomous Surface Vessel at SeaBotics UiA.
 
 <!---
