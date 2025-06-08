@@ -9,7 +9,7 @@ Currently pursuing my MSc at the University of Agder (UiA), where I’m immersed
 
 - **Programming:** C, C++, Python
 - **Robotics:** ROS 2 (Robot Operating System 2), Ubuntu
-- **Data & Simulation:** MATLAB, Simulink
+- **Data & Simulation:** MATLAB, Simulink and Simscape
 - **CAD & Mechanical:** SolidWorks (3D modeling, simulation, and analysis)
 
 ---
